@@ -1,0 +1,23 @@
+{
+    "name": "gvlatko/laravel-xss",
+    "description": "",
+    "authors": [
+        {
+            "name": "Vlatko Gjurgjinoski",
+            "email": "vlatko@g6solutions.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Gvlatko\\LaravelXss": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
