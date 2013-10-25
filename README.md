@@ -9,7 +9,7 @@ Installation
 Include the package in your composer file
 
     "require": {
-        "gvlatko/laravel-xss": "1.0"
+        "gvlatko/laravel-xss": "dev-master"
     }
     
 
